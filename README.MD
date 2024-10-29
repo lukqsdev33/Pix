@@ -15,7 +15,6 @@ $result = $pixPaymentGenerator->generatePixPayment($nickname, $email, $message, 
 
 ## Suporte e Contribuições
 Para dúvidas ou contribuições, sinta-se à vontade para entrar em contato:
-- Telegram: [@claradev33](https://t.me/claradev33)
 - Discord: @lucasdev33
 - Outras redes: @xspeeddev
 
